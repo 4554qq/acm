@@ -1,1 +1,0 @@
-{"name":"Local: LCS(str)","url":"e:\\a_code\\code\\NODE\\E.动态规划\\E.dp题单\\LCS(str).cpp","tests":[{"id":1780741254958,"input":"ABCABC\nCA","output":"2\r\nCA"},{"id":1780741413683,"input":"ABACCB\nAACCAB","output":"3\nACC"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\a_code\\code\\NODE\\E.动态规划\\E.dp题单\\LCS(str).cpp","group":"local","local":true}
