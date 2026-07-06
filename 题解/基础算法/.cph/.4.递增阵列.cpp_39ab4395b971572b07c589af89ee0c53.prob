@@ -1,1 +1,0 @@
-{"name":"Local: 4","url":"e:\\a_code\\code\\NODE\\题解\\基础算法\\4.递增阵列.cpp","tests":[{"id":1781145325878,"input":"5\n3 2 5 1 7","output":"5\r\n"},{"id":1781145350232,"input":"5\n3 2 1 5 7","output":"3\r\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\a_code\\code\\NODE\\题解\\基础算法\\4.递增阵列.cpp","group":"local","local":true}
