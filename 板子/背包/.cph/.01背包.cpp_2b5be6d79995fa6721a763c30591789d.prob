@@ -1,1 +1,0 @@
-{"name":"Local: 01背包","url":"D:\\code\\acm\\板子\\背包\\01背包.cpp","tests":[{"id":1783306740336,"input":"70 3\n71 100\n69 1\n1 2\n","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"D:\\code\\acm\\板子\\背包\\01背包.cpp","group":"local","local":true}
