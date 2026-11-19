@@ -1,0 +1,1 @@
+{"name":"Local: stack","url":"d:\\code\\acm\\板子\\B.搜索\\STL容器\\stack.cpp","tests":[{"id":1793028924120,"input":"4\n2 3 4 5","output":"5\r\n4\r\n3\r\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\acm\\板子\\B.搜索\\1.STL容器\\2.stack.cpp","group":"local","local":true}

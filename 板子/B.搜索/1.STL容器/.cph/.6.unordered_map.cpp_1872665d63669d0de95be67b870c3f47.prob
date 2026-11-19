@@ -1,0 +1,1 @@
+{"name":"Local: 6","url":"d:\\code\\acm\\板子\\B.搜索\\STL容器\\6.unordered_map.cpp","tests":[{"id":1793188692011,"input":"6\n1 dx\n1 abc\n1 dx\n1 aaa\n2 dx\n2 ab","output":"2\nNo"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\acm\\板子\\B.搜索\\1.STL容器\\6.unordered_map.cpp","group":"local","local":true}

@@ -1,1 +1,0 @@
-{"name":"Local: 缺失号码","url":"e:\\a_code\\code\\NODE\\题解\\基础算法\\缺失号码.cpp","tests":[{"id":1781102631031,"input":"4\n1 2 3","output":"4"},{"id":1781102710471,"input":"5\n2 3 1 5","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\a_code\\code\\NODE\\题解\\基础算法\\缺失号码.cpp","group":"local","local":true}

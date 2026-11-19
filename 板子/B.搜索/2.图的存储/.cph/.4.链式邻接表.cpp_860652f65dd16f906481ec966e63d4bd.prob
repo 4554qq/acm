@@ -1,0 +1,1 @@
+{"name":"Local: 4","url":"d:\\code\\acm\\板子\\B.搜索\\2.图的存储\\4.链式邻接表.cpp","tests":[{"id":1793244499784,"input":"6 5\n4 3 90\n1 4 30\n5 6 60\n1 5 20\n5 2 70","output":"1 4 30\r\n4 3 90\r\n1 5 20\r\n5 6 60\r\n5 2 70"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\acm\\板子\\B.搜索\\2.图的存储\\4.链式邻接表.cpp","group":"local","local":true}

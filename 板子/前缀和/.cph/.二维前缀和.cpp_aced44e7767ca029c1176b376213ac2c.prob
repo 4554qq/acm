@@ -1,0 +1,1 @@
+{"name":"Local: 二维前缀和","url":"d:\\code\\acm\\板子\\前缀和\\二维前缀和.cpp","tests":[{"id":1792944067950,"input":"2 1\n0 0 1\n1 1 1\n","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\acm\\板子\\前缀和\\二维前缀和.cpp","group":"local","local":true}

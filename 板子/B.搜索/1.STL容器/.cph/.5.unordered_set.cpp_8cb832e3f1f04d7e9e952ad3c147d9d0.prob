@@ -1,0 +1,1 @@
+{"name":"Local: 5","url":"d:\\code\\acm\\板子\\B.搜索\\STL容器\\5.unordered_set.cpp","tests":[{"id":1793186285361,"input":"5\n1 6\n1 2\n1 7\n2 6\n2 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\acm\\板子\\B.搜索\\1.STL容器\\5.unordered_set.cpp","group":"local","local":true}

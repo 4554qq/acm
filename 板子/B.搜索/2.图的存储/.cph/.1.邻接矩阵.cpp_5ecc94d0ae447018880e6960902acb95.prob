@@ -1,0 +1,1 @@
+{"name":"Local: 1","url":"d:\\code\\acm\\板子\\B.搜索\\2.图的存储\\1.邻接矩阵.cpp","tests":[{"id":1793189391593,"input":"4 5\n1 2 20\n1 4 40\n2 3 50\n2 4 60\n3 2 30","output":"1 2 20\r\n2 3 50\r\n3 2 30\r\n2 4 60\r\n1 4 40"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\acm\\板子\\B.搜索\\2.图的存储\\1.邻接矩阵.cpp","group":"local","local":true}
